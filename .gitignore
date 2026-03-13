@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+mars_map.IMG
+mars_map.npy
+crater_map.IMG
+crater_map.npy
+*.png
+.DS_Store
